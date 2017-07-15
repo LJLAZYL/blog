@@ -1,0 +1,120 @@
+*{margin:0;padding:0}
+
+li{list-style:none}
+
+img{vertical-align:top;border:none}
+/*
+body {
+    font: 12px Tahoma, Verdana, sans-serif;
+    color: #333333;
+    background: #FFF;
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    margin: 0 auto;
+    width: 800px;
+}
+#content {
+    margin: 0 25px 0 25px;
+    padding: 10px;
+}
+#content p {
+    margin: 0 130px 6px 0;
+    text-align: justify;
+}
+#nav {
+    position: static;
+    float: right;
+    width: 100px;
+}
+#nav ul {
+    margin: 15px 0 15px 0;
+    padding: 0;
+    list-style: none;
+    border: 0;
+}
+#nav li {
+    text-align: center;
+    border-bottom: 1px solid #000;
+    width: 100px;
+    margin: 0;
+    padding: 0;
+    font: 10px/30px Tahoma, Verdana, sans-serif;
+    color: #000;
+
+}
+#nav li a {
+    display: block;
+    font-weight: normal;
+    padding: 0;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    background: #FFF;
+    color: #000;
+    text-decoration: none;
+    width: 100px;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    width: 98px;
+}
+html>#nav li a {
+    width: 98px;
+}
+#nav li a:hover {
+    font-weight: normal;
+    background: #999;
+    color: #000;
+    text-decoration: none;
+}
+#nav h3 {
+    font-size: 120%;
+    text-decoration: underline;
+    background-image: none;
+    text-align: center;
+    padding: 0;
+}
+*/
+
+.head{
+    float:left;
+    height: 50px;
+    width: 100%;
+    background-color: #B0E0E6;
+}
+.im{
+    height: 50px;
+    width: 80px;
+    padding-left: 8%;
+}
+.smaller{
+    width: 50px;
+    height: 40px;
+    float: right;
+    display:block;
+    white-space:nowrap;
+    width:140px;
+}
+.smaller li{
+    width:40px;
+    height:40px;
+    margin:3px;
+    padding-top: 6px;
+    display:inline-block;
+    font: 20px/30px Tahoma, Verdana, sans-serif;
+
+}
+a{
+    text-decoration:none;
+}
+.sp{
+    position:relative;
+    font: 26px Tahoma, Verdana, sans-serif;
+    top:8px;
+    left:10px;
+}
+.subhead{
+    height: 60px;
+    width: 100%;
+    background-color: #E0FFFF;
+}
